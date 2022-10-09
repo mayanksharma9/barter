@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "509824119534",
+    "firebase_url": "https://barter-fc932.firebaseio.com",
+    "project_id": "barter-fc932",
+    "storage_bucket": "barter-fc932.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509824119534:android:6e68cf696281335f4d79ff",
+        "android_client_info": {
+          "package_name": "com.blanclabs.barter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509824119534-8dcsncg18hu3kgjukpvdckj9k1tc50rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIlRLkiEQO3SpUiCVs0SMLLCnS_cWHCKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509824119534-8dcsncg18hu3kgjukpvdckj9k1tc50rl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
